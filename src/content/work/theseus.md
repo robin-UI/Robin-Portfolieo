@@ -1,11 +1,12 @@
 ---
-company: "Theseus"
-role: "Senior Fullstack Engineer (Contract)"
-dateStart: "10/01/2023"
-dateEnd: "01/30/2024"
+company: "Wezlon/Innowez"
+role: "Full Stack Developer / Mentor"
+dateStart: "01/05/2025"
+dateEnd: "05/15/2025"
 ---
 
-Led the development of innovative solutions for Theseus, a conversation analytics platform. Focused on improving privacy, efficiency, and analytics in capital markets by optimizing platform functionality.
+Led the development of web solutions for clients across diverse industries, delivering scalable and efficient applications. Mentored students in modern web technologies at Wezlon academy while working on service-based projects at Innowez.
 
-- Led innovation efforts in capital market data analysis, enhancing privacy and platform efficiency.
-- Improved conversation data processing, analytics, and reporting to drive key business insights.
+- Developing a platform that combines WhatsApp automation, CRM, and billing features
+- Building end-to-end functionality to streamline customer communication and business workflows
+- Mentored IT students in modern web technologies and industry best practices

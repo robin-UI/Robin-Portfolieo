@@ -1,11 +1,11 @@
 ---
-company: "Promptform"
-role: "Senior Fullstack Engineer (Contract)"
-dateStart: "01/01/2024"
-dateEnd: "Present"
+company: "Ocelots"
+role: "Fullstack Developer (Contract)"
+dateStart: "05/28/2025"
+dateEnd: "07/31/2025"
 ---
 
-Contributed to the development of Promptform, a no-code AI platform. Designed and implemented a visual website editor for tenants, streamlining the process of building AI applications without code.
+Contributed as a Full Stack Developer at Ocelots, where I built dynamic websites and developed an HRMS application to streamline business operations.
 
-- Designed and developed a tenant visual editor, enhancing the ease of building no-code AI applications.
-- Optimized platform functionality, improving user experience and overall performance.
+- Designed and developed responsive websites for clients, ensuring scalability and performance
+- Built and maintained an HRMS application to streamline employee and HR operations

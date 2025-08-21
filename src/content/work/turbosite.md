@@ -1,11 +1,12 @@
 ---
-company: "Turbosite"
-role: "Co-founder and CTO"
-dateStart: "07/01/2023"
-dateEnd: "10/01/2023"
+company: "Vikn Codes"
+role: "React Developer"
+dateStart: "04/10/2023"
+dateEnd: "12/12/2024"
 ---
 
-Developed and launched TurboSite, an AI-powered platform for intuitive, high-converting landing pages. Led the team in simplifying web design, enhancing user experience, and facilitating efficient lead generation.
+Contributed to the development of a secure and scalable ERP platform for managing business operations. Designed a user-friendly interface focused on simplicity, usability, and modern user experience.
 
-- Led development and launch of an AI-powered platform, enhancing web design and user experience.
-- Focused on simplifying the creation process for high-converting landing pages and efficient lead generation.
+- Led development and launch of ERP Systems, enhancing web design and user experience
+- Focused on simplifying the creation process for high-quality billing system and efficient invoices management
+- Delivered features that support easy deployment, management, and system upgrades

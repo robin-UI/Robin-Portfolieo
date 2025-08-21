@@ -9,23 +9,7 @@
   },
   "skills": [
     {
-      "skill": "Software Development",
-      "proficiency": "Expert"
-    },
-    {
-      "skill": "AWS",
-      "proficiency": "Advanced"
-    },
-    {
-      "skill": "GCP",
-      "proficiency": "Advanced"
-    },
-    {
-      "skill": "PostgreSQL",
-      "proficiency": "Advanced"
-    },
-    {
-      "skill": "Docker",
+      "skill": "JavaScript",
       "proficiency": "Advanced"
     },
     {
@@ -37,7 +21,51 @@
       "proficiency": "Advanced"
     },
     {
-      "skill": "Python",
+      "skill": "Next.js",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "Redux",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "React Query",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "Context API",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "Node.js",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "Express.js",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "MongoDB",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "PostgreSQL",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "Docker",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "Firebase",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "Tailwind CSS",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill": "Bootstrap CSS",
       "proficiency": "Advanced"
     }
   ],
@@ -63,10 +91,22 @@
   ],
   "experience": [
     {
-      "company": "Promptform",
-      "role": "Senior Fullstack Engineer (Contract)",
-      "duration": "January 2024 - Present",
-      "description": "Designed a tenant's visual website editor and optimized platform functionality for a B2B AI no-code application."
+      "company": "Ocelots",
+      "role": "Fullstack Developer (Contract)",
+      "duration": "May 28 2025 - July 31 2025",
+      "description": "Contributed as a Full Stack Developer at Ocelots, where I built dynamic websites and developed an HRMS application to streamline business operations. Designed and developed responsive websites for clients, ensuring scalability and performance."
+    },
+    {
+      "company": "Wezlon/Innowez",
+      "role": "Full Stack Developer / Mentor",
+      "duration": "January 5 2025 - May 15 2025",
+      "description": "Led the development of web solutions for clients across diverse industries, delivering scalable and efficient applications. Mentored students in modern web technologies at Wezlon academy while working on service-based projects at Innowez. Developing a platform that combines WhatsApp automation, CRM, and billing features."
+    },
+    {
+      "company": "Vikn Codes",
+      "role": "React Developer",
+      "duration": "April 10 2023 - December 12 2024",
+      "description": "Contributed to the development of a secure and scalable ERP platform for managing business operations. Designed a user-friendly interface focused on simplicity, usability, and modern user experience. Led development and launch of ERP Systems, enhancing web design and user experience."
     },
     {
       "company": "Theseus",
